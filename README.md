@@ -1,13 +1,13 @@
-#Cadastro-de-filmes
-Tecnologias
+# Cadastro-de-filmes
+## Tecnologias
 Projeto desenvolvido com as seguintes tecnologias:
 
-HTML
-Bootstrap
-Git
-Github
-Figma
-Projeto
+- HTML
+- Bootstrap
+- Git
+- Github
+
+### Projeto
 Desenvolvi esse progeto com a HAPPY CODE de site de cadastro de filmes contedo bootstrap no html.
 
 Acesse o projeto aqui, online!
